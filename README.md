@@ -1,1 +1,1 @@
-# Business Entity Journal
+# 量潮科技工作日志
