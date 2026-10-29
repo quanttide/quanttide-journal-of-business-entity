@@ -1,1 +1,2 @@
 - 移除 qtclass/ 日志 35 篇（2026-08~09）：实训基地实录整体迁移至实训基地日志仓（quanttide-journal-of-training-base）default/；README/AGENTS 分流规则同步修正
+- 移回 7 篇业务设计日志（2026-08-01~08）：原 qtclass/ 中创始人课堂业务设计思考，归 default/（跨业务思考）
