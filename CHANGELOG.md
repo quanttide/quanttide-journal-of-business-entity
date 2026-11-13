@@ -1,3 +1,4 @@
+- 归位 20 篇 context 草稿（2026-11-01~11-12）：default 3（含 qtadmin 按分流入）、qtclass 6、qtcloud 5、qtdata 5、qtconsult 1，原样平移不改写，context 侧仅保留当日日志
 - 恢复 qtclass/ 日志 35 篇（2026-08-01~09-24）：撤销 10-29 迁出——实训基地实录回公司日志，default/ 中 7 篇业务设计日志归位 qtclass/（原样无改写），README/AGENTS 口径复原；实训基地日志仓（quanttide-journal-of-training-base）保留各自副本
 - 归位 context 草稿 1 篇：qtadmin 2026-11-06（API 决策实录，按分流入 default/——CONTRIBUTING 明定管理后台不单独立目录），原样平移不改写，context 侧已移出
 - 归位 21 篇 context 草稿（2026-09-29~10-31）：default 3、qtcloud 10、qtconsult 6、qtdata 2，原样平移不改写，context 侧仅保留当日日志
